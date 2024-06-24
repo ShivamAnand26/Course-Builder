@@ -1,0 +1,23 @@
+.app {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.app-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+.course-title {
+    margin: 0;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.modules {
+    margin-top: 20px;
+}

@@ -1,0 +1,15 @@
+.empty-state {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.empty-state img {
+    max-width: 100%;
+    height: auto;
+}
+
+.empty-state p {
+    font-size: 18px;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
